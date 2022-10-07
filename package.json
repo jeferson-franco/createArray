@@ -1,0 +1,20 @@
+{
+    "name": "createarray",
+    "version": "1.0.0",
+    "description": "Given an integer `size`, return array of length `size` filled with `1`s.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/createArray.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/createArray/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/createArray#readme"
+}
